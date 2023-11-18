@@ -15,7 +15,8 @@
   HOW TO RUN THIS REPOSITORY <IMG src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/05/bandeira-estados-unidos.jpg" width="40px">
 
   ```sh
-   git clone 
+   git clone https://github.com/KauanSundays/jogoBaloes.git
+   cd jogoBaloes
   ```
 </h2> BR
 
